@@ -1,0 +1,8 @@
+#IGNORE EVERYTHING
+*
+
+#UNIGNORE ALL FILES WITH EXTENSIONS, ALL DIRECTORIES, ALL READMES
+#(for the purpose of ignoring all binary files w/o extensions)
+!*.*
+!*/
+!**/README
