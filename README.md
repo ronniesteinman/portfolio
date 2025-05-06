@@ -1,10 +1,6 @@
 # Introduction
-To view this with formatting:
-
-> [Markdown Live Preview](https://markdownlivepreview.com/)
->> *won't include images within project directory*
-
 To view with formatting and images:
+> [GitHub](https://github.com/ronniesteinman/portfolio#)
 
 > [Visual Studio Code](https://code.visualstudio.com/)
 >>
